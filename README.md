@@ -1,3 +1,6 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=BCA9F5&height=300&section=header&text=Seong-uk%20&fontSize=90&fontColor=BE81F7)
+
 ### Hi there 👋
 
 <!--
@@ -18,9 +21,14 @@ Here are some ideas to get you started:
 -->
 
 
+
+
+
+
 <p>
   <a href="https://jang-seonguk.github.io/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </p>
+
 
 
 ### 💪 Skills
@@ -33,6 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 
+
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
@@ -43,8 +52,6 @@ Here are some ideas to get you started:
 </p>
 
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=BCA9F5&height=300&section=header&text=Seong-uk%20&fontSize=90&fontColor=BE81F7)
 
 
 
