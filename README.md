@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#9A2EFE&height=300&section=header&text=Seong-uk%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BCA9F5&height=300&section=header&text=Seong-uk%20&fontSize=90&fontColor=BE81F7)
 
 
 
